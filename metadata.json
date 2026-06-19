@@ -1,0 +1,6 @@
+{
+  "name": "NickName Maker",
+  "description": "A stylish nickname maker that converts regular text into unique, fancy Unicode symbols and styles for gaming and social media with copy options, favorites, and custom decorations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
